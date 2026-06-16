@@ -67,28 +67,20 @@ I am focused on engineering state-of-the-art artificial intelligence systems, sp
 
 ---
 
-## 📈 GitHub Analytics
+### 📈 GitHub Analytics
 
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=KanishkDevCode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-</td>
-
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanishkDevCode&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KanishkDevCode&theme=tokyonight&hide_border=true" />
-
-</td>
-</tr>
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td rowspan="2" align="center" style="border: none; padding: 2px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=KanishkDevCode&show_icons=true&theme=tokyonight&border_color=30363D&border_radius=5" alt="GitHub Stats" height="245" />
+    </td>
+    <td align="center" style="border: none; padding: 2px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanishkDevCode&layout=compact&theme=tokyonight&border_color=30363D&border_radius=5" alt="Most Used Languages" width="260" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border: none; padding: 2px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=KanishkDevCode&theme=tokyonight&border_radius=5" alt="GitHub Streak" width="260" />
+    </td>
+  </tr>
 </table>
-
-</div>
