@@ -61,26 +61,26 @@ I am focused on engineering state-of-the-art artificial intelligence systems, sp
 | **Domain** | **Technologies** |
 | :--- | :--- |
 | **Deep Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) |
-| **Computer Vision** | ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white) YOLO Series, ViT, Multi-Object Tracking |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white) |
-| **NLP & Data** | Vector Embeddings, RAG Architectures, QGIS |
+| **Computer Vision** | ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat-square&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO_v8/_v9/_v11-%2300FFFF.svg?style=flat-square&logo=ultralytics&logoColor=black) ![ViT](https://img.shields.io/badge/Vision_Transformers-%231f425f.svg?style=flat-square) ![GNN](https://img.shields.io/badge/GNNs-%23E10098.svg?style=flat-square) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat-square&logo=latex&logoColor=white) |
+| **NLP & Data** | ![RAG](https://img.shields.io/badge/RAG_Pipelines-%230052CC.svg?style=flat-square) ![Embeddings](https://img.shields.io/badge/Vector_Embeddings-%23019481.svg?style=flat-square) ![QGIS](https://img.shields.io/badge/QGIS-%23589632.svg?style=flat-square&logo=QGIS&logoColor=white) |
 
 ---
 
 ### 📈 GitHub Analytics
 
-<table border="0" cellpadding="0" cellspacing="0">
+<table align="center" border="0" cellpadding="5" cellspacing="0">
   <tr>
-    <td rowspan="2" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=KanishkDevCode&show_icons=true&theme=tokyonight&border_color=30363D&border_radius=5" alt="GitHub Stats" />
+    <td rowspan="2" valign="top" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=KanishkDevCode&show_icons=true&theme=tokyonight&border_color=30363D&border_radius=5" alt="GitHub Stats" height="195px" />
     </td>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanishkDevCode&layout=compact&theme=tokyonight&border_color=30363D&border_radius=5" alt="Most Used Languages" />
+    <td valign="top" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanishkDevCode&layout=compact&theme=tokyonight&border_color=30363D&border_radius=5" alt="Most Used Languages" height="92px" />
     </td>
   </tr>
   <tr>
-    <td valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=KanishkDevCode&theme=tokyonight&border_radius=5" alt="GitHub Streak" />
+    <td valign="top" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=KanishkDevCode&theme=tokyonight&border_radius=5" alt="GitHub Streak" height="92px" />
     </td>
   </tr>
 </table>
