@@ -67,19 +67,20 @@ I am focused on engineering state-of-the-art artificial intelligence systems, sp
 
 ---
 
-### 📈 GitHub Analytics
+# GitHub Analytics
 
-<div align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=KanishkDevCode&show_icons=true&theme=tokyonight&border_color=30363D&border_radius=5" alt="GitHub Stats" />
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanishkDevCode&layout=compact&theme=tokyonight&border_color=30363D&border_radius=5" alt="Top Languages" />
-</div>
-<br>
-<div align="center">
-  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=KanishkDevCode&theme=tokyonight&border_radius=5" alt="GitHub Streak" />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=KanishkDevCode&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="KanishkDevCode's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanishkDevCode&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="Most Used Languages" width="48%" />
 </div>
 
-<br>
+<br/>
 
 <div align="center">
-  <i>Let's connect and build intelligent systems.</i>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KanishkDevCode&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="97%" />
 </div>
+
+<br/>
+
+*Let's connect and build intelligent systems.*
+```http://googleusercontent.com/image_generation_content/249
