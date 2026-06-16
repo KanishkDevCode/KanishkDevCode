@@ -69,18 +69,19 @@ I am focused on engineering state-of-the-art artificial intelligence systems, sp
 
 ### 📈 GitHub Analytics
 
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td rowspan="2" align="center" style="border: none; padding: 2px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=KanishkDevCode&show_icons=true&theme=tokyonight&border_color=30363D&border_radius=5" alt="GitHub Stats" height="245" />
-    </td>
-    <td align="center" style="border: none; padding: 2px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanishkDevCode&layout=compact&theme=tokyonight&border_color=30363D&border_radius=5" alt="Most Used Languages" width="260" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="border: none; padding: 2px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=KanishkDevCode&theme=tokyonight&border_radius=5" alt="GitHub Streak" width="260" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=KanishkDevCode&theme=transparent&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KanishkDevCode&show_icons=true&bg_color=00000000&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&ring_color=58A6FF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanishkDevCode&layout=compact&bg_color=00000000&hide_border=true&title_color=58A6FF&text_color=C9D1D9" alt="Most Used Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KanishkDevCode&background=00000000&hide_border=true&title_color=58A6FF&text_color=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&currStreakNum=C9D1D9" alt="GitHub Streak" />
+</div>
