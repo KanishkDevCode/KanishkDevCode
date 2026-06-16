@@ -60,9 +60,9 @@ I am focused on engineering state-of-the-art artificial intelligence systems, sp
 
 | **Domain** | **Technologies** |
 | :--- | :--- |
-| **Deep Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) |
-| **Computer Vision** | ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) YOLO Series, ViT, Multi-Object Tracking |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) |
+| **Deep Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) |
+| **Computer Vision** | ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white) YOLO Series, ViT, Multi-Object Tracking |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white) |
 | **NLP & Data** | Vector Embeddings, RAG Architectures, QGIS |
 
 ---
@@ -70,8 +70,15 @@ I am focused on engineering state-of-the-art artificial intelligence systems, sp
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KanishkDevCode&show_icons=true&theme=react&bg_color=0D1117&text_color=FFFFFF&icon_color=58A6FF&title_color=58A6FF&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanishkDevCode&layout=compact&theme=react&bg_color=0D1117&text_color=FFFFFF&title_color=58A6FF&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KanishkDevCode&show_icons=true&theme=tokyonight&border_color=30363D&border_radius=5" alt="GitHub Stats" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KanishkDevCode&theme=tokyonight&border_radius=5" alt="GitHub Streak" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanishkDevCode&layout=compact&theme=tokyonight&border_color=30363D&border_radius=5" alt="Top Languages" />
 </div>
 
 <br>
