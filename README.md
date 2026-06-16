@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋 I'm Kanishk Singh
 
-<!--
-**KanishkDevCode/KanishkDevCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | AI Enthusiast | Open Source Contributor
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 Computer Science Student
+- 💻 Building Web, AI and Mobile Projects
+- 🌱 Currently learning System Design & DevOps
+- 🏆 Hackathon Participant
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+Java • JavaScript • React • Node.js • Express • MongoDB • Firebase • Python
+
+## Featured Projects
+### 🔥 Project 1
+Short description
+Tech: React, Node.js, MongoDB
+
+### 🤖 AI Project
+Short description
+Tech: Python, Machine Learning
+
+## GitHub Stats
+[stats cards]
+
+## Connect
+LinkedIn | Portfolio | Email
