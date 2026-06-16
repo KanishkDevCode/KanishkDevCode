@@ -69,19 +69,12 @@ I am focused on engineering state-of-the-art artificial intelligence systems, sp
 
 ### 📈 GitHub Analytics
 
-<table width="100%" style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td width="50%" valign="top" style="border: none; padding: 0 5px 0 0;">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=KanishkDevCode&show_icons=true&theme=tokyonight&border_color=30363D&border_radius=5" alt="KanishkDevCode's GitHub Stats" />
-    </td>
-    <td width="50%" valign="top" style="border: none; padding: 0 0 0 5px;">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanishkDevCode&layout=compact&theme=tokyonight&border_color=30363D&border_radius=5" alt="Most Used Languages" />
-      <br><br>
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=KanishkDevCode&theme=tokyonight&border_radius=5" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
+<div>
+  <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=KanishkDevCode&show_icons=true&theme=tokyonight&border_color=30363D&border_radius=5" alt="GitHub Stats" />
+  <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanishkDevCode&layout=compact&theme=tokyonight&border_color=30363D&border_radius=5" alt="Most Used Languages" />
+  <img align="right" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=KanishkDevCode&theme=tokyonight&border_radius=5" alt="GitHub Streak" />
+</div>
+<br clear="both" />
 <br>
 
 <div align="center">
