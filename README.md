@@ -67,20 +67,13 @@ I am focused on engineering state-of-the-art artificial intelligence systems, sp
 
 ---
 
-### 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
-<table align="center" border="0" cellpadding="5" cellspacing="0">
-  <tr>
-    <td rowspan="2" valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=KanishkDevCode&show_icons=true&theme=tokyonight&border_color=30363D&border_radius=5" alt="GitHub Stats" />
-    </td>
-    <td valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanishkDevCode&layout=compact&theme=tokyonight&border_color=30363D&border_radius=5" alt="Most Used Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=KanishkDevCode&theme=tokyonight&border_radius=5" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KanishkDevCode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=KanishkDevCode&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanishkDevCode&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
