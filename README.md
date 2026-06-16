@@ -43,7 +43,7 @@ I am focused on engineering state-of-the-art artificial intelligence systems, sp
     <li><b>Impact:</b> Replaces manual physical sorting methods with high-speed, automated computer vision pipelines to predict volumetric properties and morphological structures.</li>
   </ul>
 </details>
-
+  
 <details>
   <summary><b>📑 Intelligent Document RAG System</b></summary>
   <br>
@@ -67,20 +67,33 @@ I am focused on engineering state-of-the-art artificial intelligence systems, sp
 
 ---
 
-# GitHub Analytics
+### 📈 GitHub Analytics
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KanishkDevCode&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="KanishkDevCode's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanishkDevCode&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="Most Used Languages" width="48%" />
-</div>
-
-<br/>
+<table width="100%">
+  <tr>
+    <td width="50%" style="border: 2px solid #CC0000; padding: 2px;">
+      <div align="center" style="margin: -20px 0;">
+        <img height="195" src="https://github-readme-stats.vercel.app/api?username=KanishkDevCode&show_icons=true&theme=tokyonight&border_color=30363D&border_radius=5" alt="KanishkDevCode's GitHub Stats" />
+        <br>
+        <img height="195" src="https://github-readme-stats.vercel.app/api/contribs?username=KanishkDevCode&count=total&theme=tokyonight&border_color=30363D&border_radius=5" alt="Total Contributions" />
+      </div>
+    </td>
+    <td width="50%" style="border: 2px solid #0000FF; padding: 2px;">
+      <div align="center" style="margin: -20px 0;">
+        <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanishkDevCode&layout=compact&theme=tokyonight&border_color=30363D&border_radius=5" alt="Most Used Languages" />
+        <br>
+        <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=KanishkDevCode&theme=tokyonight&border_radius=5&count=longest" alt="Longest Streak" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KanishkDevCode&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="97%" />
+  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=KanishkDevCode&theme=tokyonight&border_radius=5&count=current" alt="Current Streak" />
 </div>
 
-<br/>
+<br>
 
-*Let's connect and build intelligent systems.*
-```http://googleusercontent.com/image_generation_content/249
+<div align="center">
+  <i>Let's connect and build intelligent systems.</i>
+</div>
