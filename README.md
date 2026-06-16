@@ -70,15 +70,12 @@ I am focused on engineering state-of-the-art artificial intelligence systems, sp
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KanishkDevCode&show_icons=true&theme=tokyonight&border_color=30363D&border_radius=5" alt="GitHub Stats" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=KanishkDevCode&show_icons=true&theme=tokyonight&border_color=30363D&border_radius=5" alt="GitHub Stats" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanishkDevCode&layout=compact&theme=tokyonight&border_color=30363D&border_radius=5" alt="Top Languages" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KanishkDevCode&theme=tokyonight&border_radius=5" alt="GitHub Streak" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanishkDevCode&layout=compact&theme=tokyonight&border_color=30363D&border_radius=5" alt="Top Languages" />
+  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=KanishkDevCode&theme=tokyonight&border_radius=5" alt="GitHub Streak" />
 </div>
 
 <br>
