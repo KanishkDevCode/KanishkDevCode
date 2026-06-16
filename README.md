@@ -69,22 +69,15 @@ I am focused on engineering state-of-the-art artificial intelligence systems, sp
 
 ## 📈 GitHub Analytics
 
-<table>
-<tr>
-<td width="60%">
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KanishkDevCode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=KanishkDevCode&theme=tokyonight&hide_border=true" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=KanishkDevCode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<p align="center">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanishkDevCode&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
 
-</td>
-
-<td width="40%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanishkDevCode&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KanishkDevCode&theme=tokyonight&hide_border=true" />
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KanishkDevCode&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
