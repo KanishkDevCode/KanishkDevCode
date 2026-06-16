@@ -69,28 +69,18 @@ I am focused on engineering state-of-the-art artificial intelligence systems, sp
 
 ### 📈 GitHub Analytics
 
-<table width="100%">
-  <tr>
-    <td width="50%" style="border: 2px solid #CC0000; padding: 2px;">
-      <div align="center" style="margin: -20px 0;">
-        <img height="195" src="https://github-readme-stats.vercel.app/api?username=KanishkDevCode&show_icons=true&theme=tokyonight&border_color=30363D&border_radius=5" alt="KanishkDevCode's GitHub Stats" />
-        <br>
-        <img height="195" src="https://github-readme-stats.vercel.app/api/contribs?username=KanishkDevCode&count=total&theme=tokyonight&border_color=30363D&border_radius=5" alt="Total Contributions" />
-      </div>
+<table align="center" style="border: none;">
+  <tr style="border: none;">
+    <td valign="top" align="center" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=KanishkDevCode&show_icons=true&theme=tokyonight&border_color=30363D&border_radius=5" alt="KanishkDevCode's GitHub Stats" />
     </td>
-    <td width="50%" style="border: 2px solid #0000FF; padding: 2px;">
-      <div align="center" style="margin: -20px 0;">
-        <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanishkDevCode&layout=compact&theme=tokyonight&border_color=30363D&border_radius=5" alt="Most Used Languages" />
-        <br>
-        <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=KanishkDevCode&theme=tokyonight&border_radius=5&count=longest" alt="Longest Streak" />
-      </div>
+    <td valign="top" align="center" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanishkDevCode&layout=compact&theme=tokyonight&border_color=30363D&border_radius=5" alt="Most Used Languages" />
+      <br><br>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=KanishkDevCode&theme=tokyonight&border_radius=5" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=KanishkDevCode&theme=tokyonight&border_radius=5&count=current" alt="Current Streak" />
-</div>
 
 <br>
 
