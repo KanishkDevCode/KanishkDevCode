@@ -5,8 +5,8 @@
   <p>Bridging the gap between raw, unstructured data and actionable insights.</p>
   
   <p align="center">
-    <a href="https://github.com/KanishkDevCode"><img src="https://img.shields.io/github/followers/KanishkDevCode?label=Followers&style=social" alt="GitHub Followers"></a>
-    <a href="https://github.com/KanishkDevCode?tab=repositories"><img src="https://img.shields.io/github/repos/KanishkDevCode?label=Repositories&style=social" alt="GitHub Repos"></a>
+    <a href="https://github.com/KanishkDevCode"><img src="https://img.shields.io/badge/Followers-Profiles-blue?style=flat-square&logo=github" alt="GitHub Followers"></a>
+    <a href="https://github.com/KanishkDevCode?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Open%20Source-green?style=flat-square&logo=github" alt="GitHub Repos"></a>
   </p>
 </div>
 
@@ -70,18 +70,12 @@ I am focused on engineering state-of-the-art artificial intelligence systems, sp
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=KanishkDevCode&theme=transparent&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=KanishkDevCode&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&ring_color=58A6FF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanishkDevCode&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" alt="Most Used Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KanishkDevCode&show_icons=true&bg_color=00000000&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&ring_color=58A6FF" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanishkDevCode&layout=compact&bg_color=00000000&hide_border=true&title_color=58A6FF&text_color=C9D1D9" alt="Most Used Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KanishkDevCode&background=00000000&hide_border=true&title_color=58A6FF&text_color=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&currStreakNum=C9D1D9" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KanishkDevCode&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&currStreakNum=C9D1D9" alt="GitHub Streak" />
 </div>
