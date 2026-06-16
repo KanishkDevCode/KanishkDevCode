@@ -1,82 +1,177 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kanishk%20Singh&fontSize=50&animation=fadeIn" alt="Header Banner" />
-  
-  <h3>Deep Learning Researcher | Computer Vision & NLP</h3>
-  <p>Bridging the gap between raw, unstructured data and actionable insights.</p>
-  
-  <p align="center">
-    <a href="https://github.com/KanishkDevCode"><img src="https://img.shields.io/github/followers/KanishkDevCode?label=Followers&style=social" alt="GitHub Followers"></a>
-    <a href="https://github.com/KanishkDevCode?tab=repositories"><img src="https://img.shields.io/github/repos/KanishkDevCode?label=Repositories&style=social" alt="GitHub Repos"></a>
-  </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=250&section=header&text=Kanishk%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header Banner" />
+
+# 👋 Hi, I'm Kanishk Singh
+
+### Full Stack Developer • AI Enthusiast • Open Source Learner
+
+🚀 Building intelligent applications, modern web experiences, and practical AI solutions.
+
+<p align="center">
+  <a href="https://github.com/KanishkDevCode">
+    <img src="https://img.shields.io/github/followers/KanishkDevCode?label=Followers&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/KanishkDevCode?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View%20Projects-blue?style=for-the-badge" />
+  </a>
+</p>
+
 </div>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-I am focused on engineering state-of-the-art artificial intelligence systems, specializing in building robust architectures for complex spatial analysis and document understanding.
-
-* 🧠 **Deeply interested in:** YOLO (v8, v9, v11) architectures, Vision Transformers (ViT), and Graph Neural Networks (GNN).
-* 🔭 **Currently developing:** Multi-Task Learning frameworks and high-precision spatial mapping tools.
-* 📚 **Exploring:** RAG pipelines, vector embeddings, and large-scale document parsing.
+* 🎓 Computer Science Student
+* 💻 Passionate about Full Stack Development
+* 🤖 Exploring AI, Computer Vision, and NLP
+* 🌱 Currently learning System Design & Cloud Technologies
+* 🚀 Building projects to solve real-world problems
+* 📚 Always learning and experimenting with new technologies
 
 ---
 
-### 🔥 Featured Projects
+## 🔥 Featured Projects
 
 <details>
   <summary><b>🛰️ Drone-Based Traffic & Spatial Analysis System</b></summary>
-  <br>
-  A high-precision pipeline for multi-vehicle detection and directional density mapping from aerial feeds.
-  <ul>
-    <li><b>Tech:</b> YOLO Tracking, Trajectory Extraction, QGIS Integration, Python</li>
-    <li><b>Impact:</b> Automates the extraction of movement patterns and spatial coordinates from raw drone footage to generate real-time density maps.</li>
-  </ul>
+
+A high-precision pipeline for vehicle detection and density mapping from aerial footage.
+
+**Tech Stack:** Python, YOLO, OpenCV, QGIS
+
+**Highlights:**
+
+* Multi-object tracking
+* Trajectory extraction
+* Spatial coordinate mapping
+* Real-time density visualization
+
 </details>
 
-<details>
-  <summary><b>🔬 Deep-Agg: Multi-Task Morphological Analysis</b></summary>
-  <br>
-  A multi-task learning framework designed for the automated morphological and volumetric analysis of physical materials.
-  <ul>
-    <li><b>Tech:</b> Computer Vision, ViT, GNNs, PyTorch</li>
-    <li><b>Impact:</b> Replaces manual physical sorting methods with high-speed, automated computer vision pipelines to predict volumetric properties and morphological structures.</li>
-  </ul>
-</details>
-  
 <details>
   <summary><b>📑 Intelligent Document RAG System</b></summary>
-  <br>
-  An automated NLP system for parsing, understanding, and summarizing complex data across multiple PDF documents simultaneously.
-  <ul>
-    <li><b>Tech:</b> Retrieval-Augmented Generation (RAG), Vector Embeddings, <code>pdfplumber</code>, LLMs</li>
-    <li><b>Impact:</b> Extracts targeted insights from massive datasets, enabling rapid Q&A and automated synthesis of highly technical reporting.</li>
-  </ul>
+
+An AI-powered system for parsing and querying large PDF collections.
+
+**Tech Stack:** Python, LangChain, Vector Embeddings, LLMs
+
+**Highlights:**
+
+* PDF parsing
+* Semantic search
+* Multi-document Q&A
+* Knowledge retrieval
+
+</details>
+
+<details>
+  <summary><b>🌐 Full Stack Web Applications</b></summary>
+
+Modern responsive applications with authentication and scalable backend architecture.
+
+**Tech Stack:** React, Node.js, Express, MongoDB
+
+**Highlights:**
+
+* Authentication
+* REST APIs
+* Dashboard interfaces
+* Cloud deployment
+
 </details>
 
 ---
 
-### 💻 Tech Stack & Tools
+## 🛠️ Tech Stack
 
-| **Domain** | **Technologies** |
-| :--- | :--- |
-| **Deep Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) |
-| **Computer Vision** | ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white) YOLO Series, ViT, Multi-Object Tracking |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white) |
-| **NLP & Data** | Vector Embeddings, RAG Architectures, QGIS |
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express)
+
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
+
+### AI & ML
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visual-studio-code)
 
 ---
 
-### 📈 GitHub Analytics
+## 📈 GitHub Analytics
 
-<div>
-  <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=KanishkDevCode&show_icons=true&theme=tokyonight&border_color=30363D&border_radius=5" alt="GitHub Stats" />
-  <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanishkDevCode&layout=compact&theme=tokyonight&border_color=30363D&border_radius=5" alt="Most Used Languages" />
-  <img align="right" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=KanishkDevCode&theme=tokyonight&border_radius=5" alt="GitHub Streak" />
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KanishkDevCode&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanishkDevCode&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
-<br clear="both" />
+
 <br>
 
 <div align="center">
-  <i>Let's connect and build intelligent systems.</i>
+
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com?user=KanishkDevCode&theme=tokyonight&hide_border=true" />
+
 </div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KanishkDevCode&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=KanishkDevCode&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/KanishkDevCode">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### 💡 "Code. Learn. Build. Repeat."
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=footer" />
