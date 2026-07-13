@@ -1,17 +1,15 @@
 <div align="center">
-
-# Kanishk Singh
-
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+Generative+Systems+Builder;Computer+Vision+%2B+NLP+Researcher;Civil+Engineering+%E2%88%A9+Deep+Learning;Building+Next-Gen+AI+Pipelines" alt="Typing SVG" />
-</a>
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KanishkDevCode)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kanishk%20Singh&fontSize=50&animation=fadeIn" alt="Header Banner" />
+  
+  <h3>Deep Learning Researcher | Computer Vision & NLP</h3>
+  <p>Bridging the gap between raw, unstructured data and actionable insights.</p>
+  
+  <p align="center">
+    <a href="https://github.com/KanishkDevCode"><img src="https://img.shields.io/badge/Followers-Profiles-blue?style=flat-square&logo=github" alt="GitHub Followers"></a>
+    <a href="https://github.com/KanishkDevCode?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Open%20Source-green?style=flat-square&logo=github" alt="GitHub Repos"></a>
+    <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  </p>
 </div>
 
 ---
@@ -92,4 +90,36 @@ My focus is on the intersection of complex model architectures and deployable pr
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23003B57.svg?style=flat-square&logo=postgresql&logoColor=white)
-![LaTeX](https://img.shields.
+![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
+
+---
+
+## 🌱 Currently Exploring
+
+- 🤖 **Agentic AI Systems** — Multi-step LangGraph orchestration pipelines
+- 🌍 **Spatial GraphRAG** — Mapping network topologies and context nodes
+- 🎮 **High-Fidelity WebGL** — Expanding interactive browser physics and environments
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KanishkDevCode&show_icons=true&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=e2e8f0&bg_color=0d1117" alt="GitHub Stats" />
+  
+  <br/>
+
+  <img src="https://streak-stats.demolab.com?user=KanishkDevCode&theme=tokyonight&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&background=0d1117" alt="GitHub Streak" />
+  
+  <br/>
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KanishkDevCode&layout=compact&theme=tokyonight&hide_border=true&title_color=58A6FF&text_color=e2e8f0&bg_color=0d1117" alt="Top Languages" />
+</p>
+
+---
+
+<div align="center">
+
+*"Bridging the gap between raw, unstructured data and actionable insights."*
+
+</div>
