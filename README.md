@@ -16,93 +16,94 @@
 
 ## 👨‍💻 About Me
 
-I am a Deep Learning Researcher focused on engineering state-of-the-art artificial intelligence systems. I bridge the gap between raw, unstructured data and actionable intelligence—whether that is parsing massive document datasets, analyzing spatial/morphological structures, or building fully autonomous orchestration networks.
+I am a Deep Learning Researcher focused on engineering state-of-the-art artificial intelligence systems. I bridge the gap between raw, unstructured data and actionable intelligence—whether that involves parsing massive document datasets, analyzing complex spatial/morphological structures, or building fully autonomous agentic orchestration networks.
 
-My focus is on the intersection of complex model architectures and deployable production environments, ensuring high-fidelity outputs across vision, language, and reinforcement learning domains.
+My focus is on the intersection of deep neural network architectures and production-grade software environments, ensuring high-fidelity outputs across vision, language, and reinforcement learning systems.
 
 - 🧠 Hands-on with **YOLO (v8, v9, v11) architectures, Vision Transformers (ViT), and Graph Neural Networks (GNN)**
-- ⚙️ Ship autonomous pipelines and multi-agent systems with **LangGraph, Ollama, and PyTorch**
-- 📐 Strong foundations in **Retrieval-Augmented Generation (RAG), Semantic Vector Embeddings, and 3D Rendering**
-- 🚀 Passionate about optimizing models, cutting resource usage, and connecting AI capabilities to real user interfaces
+- ⚙️ Shipping autonomous pipelines and multi-agent networks with **LangGraph, Ollama, and PyTorch**
+- 📐 Strong foundations in **Retrieval-Augmented Generation (RAG), Spatial Vector Embeddings, and 3D Scene Generation**
+- 🚀 Passionate about optimizing model inference, cutting VRAM footprints, and deploying scalable AI backends
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Systems
 
-> Projects I've built, measured, and would defend in a technical interview.
+> Complex end-to-end architectures I've engineered, evaluated, and productionized.
 
 ### 🛡️ AegisNet: Autonomous Agentic Cyber Defense
-**`Next.js` `LangGraph` `Ollama` `Stable-Baselines3` `Neo4j` `PyTorch`** An end-to-end, multi-modal cybersecurity orchestration system acting as an autonomous AI Security Operations Center (SOC).
+**`Next.js` `LangGraph` `Ollama` `Stable-Baselines3` `Neo4j` `PyTorch` `Polars`**  
+An autonomous, multi-modal AI Security Operations Center (SOC) designed to intercept zero-day network threats without relying on static rule signatures.
 
-- Engineered a **5-phase defense pipeline** combining a CatBoost anomaly sensor, a PyTorch Vision Transformer (ViT) for malware visual texture analysis, and a local Llama-3.1 graph-RAG LLM for lateral blast radius assessment.
-- Integrated a **Deep Reinforcement Learning (PPO) agent** inside a native Gymnasium environment to calculate and deploy zero-trust firewall isolation strategies autonomously.
-- Built a decoupled **Next.js MLOps dashboard** with real-time `React Flow` network canvases and telemetry tracking for data drift and inference latency.
+- **Multi-Modal Triaging Pipeline:** Chattered a frontline CatBoost anomaly sensor with a **PyTorch Vision Transformer (ViT)** that processes raw binary code converted into 2D grayscale images to identify malware structural mutations.
+- **Spatial GraphRAG Intelligence:** Maps enterprise network topology into a **Neo4j AuraDB** graph database, leveraging a local **Ollama (Llama-3.1)** model to dynamically generate lateral blast-radius risk assessments.
+- **Active DRL Defense Engine:** Deploys a Deep Reinforcement Learning (**PPO agent**) inside a native Gymnasium environment to calculate mathematically optimal, zero-trust firewall isolation paths.
+- **Production Dashboard:** Built a decoupled Next.js interactive canvas utilizing `React Flow` for live infection rendering alongside telemetry tracking for inference latency and data drift.
 
 ---
 
 ### 🎬 Automated YouTube Shorts AI Pipeline
-**`Python` `PyTorch` `YOLOv8` `FFmpeg` `ChromaDB` `Ollama`** A fully automated, fault-tolerant AI pipeline that converts long-form video episodes into highly engaging, auto-captioned, and character-tagged short-form content.
+**`Python` `PyTorch` `YOLOv8` `FFmpeg` `ChromaDB` `Ollama` `Hugging Face`**  
+A fully automated, autonomous content creation pipeline that converts long-form video episodes into highly engaging, auto-captioned, and character-tagged short-form content.
 
-- Architected an intelligent scene splitter and semantic vibe-search engine using **`clip-ViT-B-32` vector embeddings** to dynamically pull clips based on abstract concepts.
-- Trained a custom **YOLOv8 computer vision model** to scan frames and spatially tag specific characters physically present in the scene.
-- Orchestrated a **multi-agent LLM workflow** including a Web Research Agent, Script Generator, and Strict Lore Auditor to prevent hallucinations, culminating in hardware-accelerated (NVENC) rendering.
+- **Semantic Vibe-Search:** Architected a multi-vector extraction framework using Hugging Face's **`clip-ViT-B-32` embeddings** to map dialogue and concepts into a dense 512-dimensional vector space for abstract thematic matching.
+- **Computer Vision Object Tracking:** Integrated a fine-tuned **YOLOv8 computer vision model** running on PyTorch to perform frame-by-frame character detection and spatial tagging (e.g., identity verification and positioning).
+- **Multi-Agent Script Orchestration:** Built an interconnected LangGraph workflow featuring a Script Generator, Research Agent, and a Strict Lore Auditor LLM loop to review, grade, and automatically sanitize script drafts against hallucinations.
+- **Hardware-Accelerated Compiling:** Engineered an automated assembly layout driven by **FFmpeg with NVIDIA NVENC (`h264_nvenc`)** support to crop vertical bounding boxes and burn in dynamic subtitles natively on the GPU in seconds.
 
 ---
 
 ### 🌌 Lumina OS
-**`React` `Three.js` `Vite` `Firebase` `Zustand`** A AAA-grade, high-fidelity web application built to simulate a next-generation gaming hub and agentic intelligent assistant interface.
+**`React 19` `Three.js` `React Three Fiber` `Zustand` `Firebase` `Cloudinary`**  
+A AAA-grade, high-fidelity web application built to simulate a next-generation gaming hub interface and contextual intelligent assistant gateway.
 
-- Built a **Dynamic Contextual Theme Engine** that completely overhauls the UI/UX environment—from color palettes to particle effects—based on real-time active game state selection.
-- Integrated **interactive 3D elements** (glossy character cards, holographic projections) directly into the DOM using React Three Fiber, ensuring seamless 60fps physics and continuous float interpolation.
-- Connected a contextual **Agentic AI Assistant** capable of shifting personas based on the active hub, synced globally via Firebase Firestore.
+- **Dynamic Omni-Theme Injection:** Developed a global state-driven visual engine via **Zustand** that instantly overwrites the DOM's CSS variables, typography layout, and color palettes based on active data node selection.
+- **Hybrid 2D/3D Rendering Layer:** Blends high-performance web development with game design by injecting interactive 3D elements, glossy character cards, and continuous floating interpolations inside an optimized **`<Canvas>` context loop**.
+- **Agentic Uplink Assistant:** Implemented a contextual chat portal where the underlying LLM dynamically shifts personas and system prompts depending on the active environment hub.
+- **Cloud Asset Synchronization:** Designed an administrative dashboard enabling secure asset uploads directly to **Cloudinary CDN**, which auto-caches the secure CDN links to **Firebase Firestore** to push real-time updates globally.
 
 ---
 
-## 🛠️ Tech Stack
+## 📂 Other Projects
 
-**AI / ML**
+### 🏢 Structify AI: Floorplan to 3D Scene Converter
+* **Tech:** `FastAPI` · `YOLOv8 Segmentation` · `OpenCV` · `Shapely` · `Trimesh` · `GeoJSON`
+* **Impact:** Transforms standard 2D architectural floorplan images into comprehensive spatial datasets. The endpoint processes images to isolate walls, doors, and furniture, outputting labeled GeoJSON files alongside fully extruded, ready-to-render **3D `.glb` scenes**.
 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat-square&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO_v8/_v9/_v11-%2300FFFF.svg?style=flat-square&logo=ultralytics&logoColor=black)
-![ViT](https://img.shields.io/badge/Vision_Transformers-%231f425f.svg?style=flat-square)
-![GNN](https://img.shields.io/badge/GNNs-%23E10098.svg?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-%230052CC.svg?style=flat-square)
+### 🕹️ Doom 3D: Python Raycasting Engine
+* **Tech:** `Python` · `Pygame` · `DDA Algorithm` · `BFS Pathfinding` · `Object-Oriented Design`
+* **Impact:** Built a pure 2.5D First-Person Shooter engine from scratch without relying on modern 3D graphic APIs. Implemented a **Digital Differential Analyzer (DDA)** algorithm for distance mapping, textured walls, animated sprites, and BFS-driven enemy AI navigation.
 
-**Backend / Infra**
+### 🛸 Drone-Based Multi-Vehicle Detection & Traffic Flow Analysis
+* **Tech:** `YOLOv8` · `DeepSORT` · `OpenCV` · `Shapely Polygons` · `Pandas`
+* **Impact:** Created a pipeline for automated traffic data ingestion from aerial drone feeds. The system handles vehicle tracking with unique IDs via **DeepSORT**, automatically maps lane polygons without manual configuration, and generates formatted structural excel sheets parsing lane-wise traffic trends.
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
+### 🏗️ Concrete Strength Predictor
+* **Tech:** `Scikit-Learn` · `XGBoost` · `Gradio` · `Pandas` · `Matplotlib`
+* **Impact:** A specialized regression and classification framework targeted at assessing civil engineering materials. Uses **XGBoost** to forecast the compressive strength (MPa) of concrete formulas based on curing age and chemical mix proportions, exposed through a responsive Gradio web interface.
 
-**Frontend**
+---
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat-square&logo=streamlit&logoColor=white)
+## 🛠️ Tech Stack & Tools
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%23003B57.svg?style=flat-square&logo=postgresql&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
+| **Domain** | **Technologies** |
+| :--- | :--- |
+| **AI / ML** | PyTorch · TensorFlow · OpenCV · YOLO (v8/v9/v11) · Vision Transformers (ViT) · GNNs · Scikit-Learn · XGBoost · DeepSORT · Hugging Face CLIP |
+| **Backend / Infra** | FastAPI · LangGraph · ChromaDB · Neo4j AuraDB · Node/Express · Docker · AWS · Firebase · Trimesh · Shapely · Polars · Git |
+| **Frontend** | React 19 · Three.js · React Three Fiber · TailwindCSS · Zustand · Streamlit · Gradio · Pygame · Framer Motion |
+| **Languages** | Python · C/C++ · SQL (PostgreSQL) · HTML5/CSS3 · JavaScript · LaTeX |
 
 ---
 
 ## 🌱 Currently Exploring
 
-- 🤖 **Agentic AI Systems** — Multi-step LangGraph orchestration pipelines
-- 🌍 **Spatial GraphRAG** — Mapping network topologies and context nodes
-- 🎮 **High-Fidelity WebGL** — Expanding interactive browser physics and environments
+- 🤖 **Advanced Multi-Agent Frameworks** — Complex state validation and graph topology structures in LangGraph.
+- 🌍 **Hierarchical GraphRAG** — Extracting semantic knowledge entities across dense multi-source documentation.
+- 🎮 **Custom WebGL Shaders** — Designing highly parallelized, GPU-bound particle systems directly within the browser canvas.
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KanishkDevCode&show_icons=true&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=e2e8f0&bg_color=0d1117" alt="GitHub Stats" />
