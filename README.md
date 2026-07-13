@@ -70,8 +70,14 @@ I am focused on engineering state-of-the-art artificial intelligence systems, sp
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KanishkDevCode&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&ring_color=58A6FF&cache_seconds=86400&v=2026" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KanishkDevCode&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&cache_seconds=86400&v=2026" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KanishkDevCode&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&ring_color=58A6FF&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KanishkDevCode&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&cache_seconds=86400" alt="Most Used Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=KanishkDevCode&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&currStreakNum=C9D1D9" alt="GitHub Streak" />
 </div>
 
 <br>
