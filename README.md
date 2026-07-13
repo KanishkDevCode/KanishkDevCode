@@ -60,10 +60,10 @@ I am focused on engineering state-of-the-art artificial intelligence systems, sp
 
 | **Domain** | **Technologies** |
 | :--- | :--- |
-| **Deep Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) |
-| **Computer Vision** | ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat-square&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO_v8/_v9/_v11-%2300FFFF.svg?style=flat-square&logo=ultralytics&logoColor=black) ![ViT](https://img.shields.io/badge/Vision_Transformers-%231f425f.svg?style=flat-square) ![GNN](https://img.shields.io/badge/GNNs-%23E10098.svg?style=flat-square) |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat-square&logo=latex&logoColor=white) |
-| **NLP & Data** | ![RAG](https://img.shields.io/badge/RAG_Pipelines-%230052CC.svg?style=flat-square) ![Embeddings](https://img.shields.io/badge/Vector_Embeddings-%23019481.svg?style=flat-square) ![QGIS](https://img.shields.io/badge/QGIS-%23589632.svg?style=flat-square&logo=QGIS&logoColor=white) |
+| **AI / ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat-square&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO_v8/_v9/_v11-%2300FFFF.svg?style=flat-square&logo=ultralytics&logoColor=black) <br> ![ViT](https://img.shields.io/badge/Vision_Transformers-%231f425f.svg?style=flat-square) ![GNN](https://img.shields.io/badge/GNNs-%23E10098.svg?style=flat-square) ![RAG](https://img.shields.io/badge/RAG_Pipelines-%230052CC.svg?style=flat-square) ![Embeddings](https://img.shields.io/badge/Vector_Embeddings-%23019481.svg?style=flat-square) |
+| **Backend / Infra** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) |
+| **Frontend** | ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat-square&logo=streamlit&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%23003B57.svg?style=flat-square&logo=postgresql&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat-square&logo=latex&logoColor=white) |
 
 ---
 
@@ -78,10 +78,4 @@ I am focused on engineering state-of-the-art artificial intelligence systems, sp
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=KanishkDevCode&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&currStreakNum=C9D1D9" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KanishkDevCode&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&currStreakNum=C9D1D9" alt="GitHub Streak" />
 </div>
