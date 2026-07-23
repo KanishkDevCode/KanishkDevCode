@@ -2,7 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kanishk%20Singh&fontSize=50&animation=fadeIn" alt="Header Banner" />
   
   <h3>Deep Learning Researcher | Computer Vision & NLP</h3>
-  <p>Bridging the gap between raw, unstructured data and actionable insights.</p>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Deep+Learning+Researcher;Engineering+Vision+%26+Multi-Agent+Systems;Bridging+Raw+Data+%26+Actionable+Insights" alt="Typing SVG" />
+  </a>
   
   <p align="center">
     <a href="https://github.com/KanishkDevCode"><img src="https://img.shields.io/badge/Followers-Profiles-blue?style=flat-square&logo=github" alt="GitHub Followers"></a>
@@ -60,38 +63,58 @@ A AAA-grade, high-fidelity web application built to simulate a next-generation g
 - **Dynamic Omni-Theme Injection:** Developed a global state-driven visual engine via **Zustand** that instantly overwrites the DOM's CSS variables, typography layout, and color palettes based on active data node selection.
 - **Hybrid 2D/3D Rendering Layer:** Blends high-performance web development with game design by injecting interactive 3D elements, glossy character cards, and continuous floating interpolations inside an optimized **`<Canvas>` context loop**.
 - **Agentic Uplink Assistant:** Implemented a contextual chat portal where the underlying LLM dynamically shifts personas and system prompts depending on the active environment hub.
-- **Cloud Asset Synchronization:** Designed an administrative dashboard enabling secure asset uploads directly to **Cloudinary CDN**, which auto-caches the secure CDN links to **Firebase Firestore** to push real-time updates globally.
 
 ---
 
-## 📂 Other Projects
+## 📂 Visual Intelligence Projects
 
 ### 🏢 Structify AI: Floorplan to 3D Scene Converter
-* **Tech:** `FastAPI` · `YOLOv8 Segmentation` · `OpenCV` · `Shapely` · `Trimesh` · `GeoJSON`
-* **Impact:** Transforms standard 2D architectural floorplan images into comprehensive spatial datasets. The endpoint processes images to isolate walls, doors, and furniture, outputting labeled GeoJSON files alongside fully extruded, ready-to-render **3D `.glb` scenes**.
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <!-- REPLACE THE SRC LINK BELOW WITH YOUR ACTUAL GIF LINK -->
+      <img src="https://via.placeholder.com/450x260/0d1117/58A6FF.gif?text=+Drop+Your+Structify+GIF+Here+" alt="Structify AI Demo" width="100%">
+    </td>
+    <td width="45%" valign="top">
+      <b>Tech:</b> <code>FastAPI</code> · <code>YOLOv8</code> · <code>OpenCV</code> · <code>Trimesh</code> · <code>Shapely</code><br><br>
+      Transforms standard 2D architectural floorplan images into comprehensive spatial datasets. The endpoint processes images to isolate walls, doors, and furniture, outputting labeled GeoJSON files alongside fully extruded, ready-to-render <b>3D .glb scenes</b>.
+    </td>
+  </tr>
+</table>
+
+### 🛸 Drone-Based Multi-Vehicle Detection
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <!-- REPLACE THE SRC LINK BELOW WITH YOUR ACTUAL GIF LINK -->
+      <img src="https://via.placeholder.com/450x260/0d1117/58A6FF.gif?text=+Drop+Your+Drone+Tracking+GIF+Here+" alt="Drone YOLO Demo" width="100%">
+    </td>
+    <td width="45%" valign="top">
+      <b>Tech:</b> <code>YOLOv8</code> · <code>DeepSORT</code> · <code>OpenCV</code> · <code>Pandas</code><br><br>
+      Created a pipeline for automated traffic data ingestion from aerial drone feeds. The system handles vehicle tracking with unique IDs via <b>DeepSORT</b>, automatically maps lane polygons without manual configuration, and generates formatted excel sheets parsing lane-wise traffic trends.
+    </td>
+  </tr>
+</table>
 
 ### 🕹️ Doom 3D: Python Raycasting Engine
-* **Tech:** `Python` · `Pygame` · `DDA Algorithm` · `BFS Pathfinding` · `Object-Oriented Design`
+* **Tech:** `Python` · `Pygame` · `DDA Algorithm` · `BFS Pathfinding`
 * **Impact:** Built a pure 2.5D First-Person Shooter engine from scratch without relying on modern 3D graphic APIs. Implemented a **Digital Differential Analyzer (DDA)** algorithm for distance mapping, textured walls, animated sprites, and BFS-driven enemy AI navigation.
-
-### 🛸 Drone-Based Multi-Vehicle Detection & Traffic Flow Analysis
-* **Tech:** `YOLOv8` · `DeepSORT` · `OpenCV` · `Shapely Polygons` · `Pandas`
-* **Impact:** Created a pipeline for automated traffic data ingestion from aerial drone feeds. The system handles vehicle tracking with unique IDs via **DeepSORT**, automatically maps lane polygons without manual configuration, and generates formatted structural excel sheets parsing lane-wise traffic trends.
-
-### 🏗️ Concrete Strength Predictor
-* **Tech:** `Scikit-Learn` · `XGBoost` · `Gradio` · `Pandas` · `Matplotlib`
-* **Impact:** A specialized regression and classification framework targeted at assessing civil engineering materials. Uses **XGBoost** to forecast the compressive strength (MPa) of concrete formulas based on curing age and chemical mix proportions, exposed through a responsive Gradio web interface.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
-| **Domain** | **Technologies** |
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,python,cpp,javascript,react,threejs,tailwind,nodejs,docker,aws,firebase,postgres,git&perline=15" />
+  </a>
+</p>
+
+| **Domain** | **Specialized Technologies** |
 | :--- | :--- |
-| **AI / ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat-square&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO_v8/_v9/_v11-%2300FFFF.svg?style=flat-square&logo=ultralytics&logoColor=black) ![ViT](https://img.shields.io/badge/Vision_Transformers-%231f425f.svg?style=flat-square) <br> ![GNN](https://img.shields.io/badge/GNNs-%23E10098.svg?style=flat-square) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-%23139E5F.svg?style=flat-square) ![DeepSORT](https://img.shields.io/badge/DeepSORT-%230052CC.svg?style=flat-square) ![Hugging Face](https://img.shields.io/badge/-HuggingFace-F19F0A?style=flat-square&logo=huggingface&logoColor=white) |
-| **Backend / Infra** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-%238A2BE2.svg?style=flat-square) ![ChromaDB](https://img.shields.io/badge/ChromaDB-%23A855F7.svg?style=flat-square) ![Neo4j](https://img.shields.io/badge/Neo4j-%23008CC1.svg?style=flat-square&logo=neo4j&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square) <br> ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white) ![Trimesh](https://img.shields.io/badge/Trimesh-%233776AB.svg?style=flat-square) ![Shapely](https://img.shields.io/badge/Shapely-%232196F3.svg?style=flat-square) ![Polars](https://img.shields.io/badge/Polars-%23CD792C.svg?style=flat-square&logo=polars&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white) ![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-%23000000.svg?style=flat-square) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-%23443E38.svg?style=flat-square) <br> ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat-square&logo=streamlit&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-%23FF7C00.svg?style=flat-square&logo=gradio&logoColor=white) ![Pygame](https://img.shields.io/badge/Pygame-%232C4A70.svg?style=flat-square) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-%230055FF.svg?style=flat-square&logo=framer&logoColor=white) |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%23003B57.svg?style=flat-square&logo=postgresql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black) ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat-square&logo=latex&logoColor=white) |
+| **AI / ML** | ![YOLO](https://img.shields.io/badge/YOLO_v8/_v9/_v11-%2300FFFF.svg?style=flat-square&logo=ultralytics&logoColor=black) ![ViT](https://img.shields.io/badge/Vision_Transformers-%231f425f.svg?style=flat-square) ![GNN](https://img.shields.io/badge/GNNs-%23E10098.svg?style=flat-square) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-%23139E5F.svg?style=flat-square) ![DeepSORT](https://img.shields.io/badge/DeepSORT-%230052CC.svg?style=flat-square) ![Hugging Face](https://img.shields.io/badge/-HuggingFace-F19F0A?style=flat-square&logo=huggingface&logoColor=white) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-%238A2BE2.svg?style=flat-square) ![ChromaDB](https://img.shields.io/badge/ChromaDB-%23A855F7.svg?style=flat-square) ![Neo4j](https://img.shields.io/badge/Neo4j-%23008CC1.svg?style=flat-square&logo=neo4j&logoColor=white) ![Trimesh](https://img.shields.io/badge/Trimesh-%233776AB.svg?style=flat-square) ![Shapely](https://img.shields.io/badge/Shapely-%232196F3.svg?style=flat-square) ![Polars](https://img.shields.io/badge/Polars-%23CD792C.svg?style=flat-square&logo=polars&logoColor=white) |
+| **Frontend** | ![Zustand](https://img.shields.io/badge/Zustand-%23443E38.svg?style=flat-square) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat-square&logo=streamlit&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-%23FF7C00.svg?style=flat-square&logo=gradio&logoColor=white) ![Pygame](https://img.shields.io/badge/Pygame-%232C4A70.svg?style=flat-square) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-%230055FF.svg?style=flat-square&logo=framer&logoColor=white) |
 
 ---
 
@@ -117,10 +140,11 @@ A AAA-grade, high-fidelity web application built to simulate a next-generation g
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KanishkDevCode&layout=compact&theme=tokyonight&hide_border=true&title_color=58A6FF&text_color=e2e8f0&bg_color=0d1117" alt="Top Languages" />
 </p>
 
----
-
-<div align="center">
-
-*"Bridging the gap between raw, unstructured data and actionable insights."*
-
-</div>
+<!-- GITHUB CONTRIBUTION SNAKE -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KanishkDevCode/KanishkDevCode/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KanishkDevCode/KanishkDevCode/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KanishkDevCode/KanishkDevCode/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
