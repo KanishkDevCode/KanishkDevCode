@@ -63,42 +63,29 @@ A AAA-grade, high-fidelity web application built to simulate a next-generation g
 - **Dynamic Omni-Theme Injection:** Developed a global state-driven visual engine via **Zustand** that instantly overwrites the DOM's CSS variables, typography layout, and color palettes based on active data node selection.
 - **Hybrid 2D/3D Rendering Layer:** Blends high-performance web development with game design by injecting interactive 3D elements, glossy character cards, and continuous floating interpolations inside an optimized **`<Canvas>` context loop**.
 - **Agentic Uplink Assistant:** Implemented a contextual chat portal where the underlying LLM dynamically shifts personas and system prompts depending on the active environment hub.
+- **Cloud Asset Synchronization:** Designed an administrative dashboard enabling secure asset uploads directly to **Cloudinary CDN**, which auto-caches the secure CDN links to **Firebase Firestore** to push real-time updates globally.
 
 ---
 
 ## 📂 Visual Intelligence Projects
 
-### 🏢 Structify AI: Floorplan to 3D Scene Converter
-<table>
-  <tr>
-    <td width="55%" valign="top">
-      <!-- REPLACE THE SRC LINK BELOW WITH YOUR ACTUAL GIF LINK -->
-      <img src="https://via.placeholder.com/450x260/0d1117/58A6FF.gif?text=+Drop+Your+Structify+GIF+Here+" alt="Structify AI Demo" width="100%">
-    </td>
-    <td width="45%" valign="top">
-      <b>Tech:</b> <code>FastAPI</code> · <code>YOLOv8</code> · <code>OpenCV</code> · <code>Trimesh</code> · <code>Shapely</code><br><br>
-      Transforms standard 2D architectural floorplan images into comprehensive spatial datasets. The endpoint processes images to isolate walls, doors, and furniture, outputting labeled GeoJSON files alongside fully extruded, ready-to-render <b>3D .glb scenes</b>.
-    </td>
-  </tr>
-</table>
+## 📂 Other Projects
 
-### 🛸 Drone-Based Multi-Vehicle Detection
-<table>
-  <tr>
-    <td width="55%" valign="top">
-      <!-- REPLACE THE SRC LINK BELOW WITH YOUR ACTUAL GIF LINK -->
-      <img src="https://via.placeholder.com/450x260/0d1117/58A6FF.gif?text=+Drop+Your+Drone+Tracking+GIF+Here+" alt="Drone YOLO Demo" width="100%">
-    </td>
-    <td width="45%" valign="top">
-      <b>Tech:</b> <code>YOLOv8</code> · <code>DeepSORT</code> · <code>OpenCV</code> · <code>Pandas</code><br><br>
-      Created a pipeline for automated traffic data ingestion from aerial drone feeds. The system handles vehicle tracking with unique IDs via <b>DeepSORT</b>, automatically maps lane polygons without manual configuration, and generates formatted excel sheets parsing lane-wise traffic trends.
-    </td>
-  </tr>
-</table>
+### 🏢 Structify AI: Floorplan to 3D Scene Converter
+* **Tech:** `FastAPI` · `YOLOv8 Segmentation` · `OpenCV` · `Shapely` · `Trimesh` · `GeoJSON`
+* **Impact:** Transforms standard 2D architectural floorplan images into comprehensive spatial datasets. The endpoint processes images to isolate walls, doors, and furniture, outputting labeled GeoJSON files alongside fully extruded, ready-to-render **3D `.glb` scenes**.
+
+### 🛸 Drone-Based Multi-Vehicle Detection & Traffic Flow Analysis
+* **Tech:** `YOLOv8` · `DeepSORT` · `OpenCV` · `Shapely Polygons` · `Pandas`
+* **Impact:** Created a pipeline for automated traffic data ingestion from aerial drone feeds. The system handles vehicle tracking with unique IDs via **DeepSORT**, automatically maps lane polygons without manual configuration, and generates formatted structural excel sheets parsing lane-wise traffic trends.
 
 ### 🕹️ Doom 3D: Python Raycasting Engine
 * **Tech:** `Python` · `Pygame` · `DDA Algorithm` · `BFS Pathfinding`
 * **Impact:** Built a pure 2.5D First-Person Shooter engine from scratch without relying on modern 3D graphic APIs. Implemented a **Digital Differential Analyzer (DDA)** algorithm for distance mapping, textured walls, animated sprites, and BFS-driven enemy AI navigation.
+
+### 🏗️ Concrete Strength Predictor
+* **Tech:** `Scikit-Learn` · `XGBoost` · `Gradio` · `Pandas` · `Matplotlib`
+* **Impact:** A specialized regression and classification framework targeted at assessing civil engineering materials. Uses **XGBoost** to forecast the compressive strength (MPa) of concrete formulas based on curing age and chemical mix proportions, exposed through a responsive Gradio web interface.
 
 ---
 
