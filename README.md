@@ -120,7 +120,7 @@ A AAA-grade, high-fidelity web application built to simulate a next-generation g
   
   <br/>
 
-  <img src="https://streak-stats.demolab.com?user=KanishkDevCode&theme=tokyonight&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&background=0d1117" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=KanishkDevCode&theme=tokyonight&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&background=0d1117&v=1" alt="GitHub Streak" />
   
   <br/>
 
