@@ -118,7 +118,7 @@ A AAA-grade, high-fidelity web application built to simulate a next-generation g
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=KanishkDevCode&show_icons=true&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=e2e8f0&bg_color=0d1117" alt="GitHub Stats" />
   <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=KanishkDevCode&theme=tokyonight&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&background=0d1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=KanishkDevCode&theme=tokyonight&hide_border=true&cache_buster=1" alt="GitHub Streak" />
   <br/><br/>
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=KanishkDevCode&layout=compact&theme=tokyonight&hide_border=true&title_color=58A6FF&text_color=e2e8f0&bg_color=0d1117" alt="Top Languages" />
 </div>
