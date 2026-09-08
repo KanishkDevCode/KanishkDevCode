@@ -10,8 +10,8 @@
   <p align="center">
     <a href="https://github.com/KanishkDevCode"><img src="https://img.shields.io/badge/Followers-Profiles-blue?style=flat-square&logo=github" alt="GitHub Followers"></a>
     <a href="https://github.com/KanishkDevCode?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Open%20Source-green?style=flat-square&logo=github" alt="GitHub Repos"></a>
-    <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://linkedin.com/in/kanishk-singh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:kanishk.singh.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   </p>
 </div>
 
@@ -33,6 +33,16 @@ My focus is on the intersection of deep neural network architectures and product
 ## 🚀 Featured Systems
 
 > Complex end-to-end architectures I've engineered, evaluated, and productionized.
+
+### 💸 RecoverAI: Autonomous Revenue Recovery Agent
+**`FastAPI` `Groq LLM` `Celery` `Redis` `Scikit-Learn` `React` `PostgreSQL`**  
+A financial safety-first autonomous system that recovers failed payments using a hybrid ML/LLM pipeline, strictly gated by a deterministic policy engine to prevent unauthorized AI financial actions.
+- **Asynchronous Orchestration:** Architected an event-driven backend utilizing **Redis and Celery** to decouple real-time Razorpay webhook ingestion from heavy LLM inference tasks.
+- **Hybrid AI Diagnosis:** Fused a **Scikit-Learn** probability classifier with **Groq (Llama 3)** causal reasoning to diagnose transaction failure root causes and generate dynamic recovery strategies.
+- **Deterministic Safety Guard:** Engineered a rigid state machine and Execution Guard that intercepts LLM outputs, cryptographically verifies webhooks (HMAC-SHA256), and safely blocks unsupported API actions.
+- **Real-Time Audit Dashboard:** Built a responsive **React/Vite** control center visualizing idempotent webhook processing, strict state transitions, and immutable audit trails stored in **PostgreSQL**.
+
+---
 
 ### 🛡️ AegisNet: Autonomous Agentic Cyber Defense
 **`Next.js` `LangGraph` `Ollama` `Stable-Baselines3` `Neo4j` `PyTorch` `Polars`**  
@@ -69,7 +79,7 @@ A AAA-grade, high-fidelity web application built to simulate a next-generation g
 
 ## 📂 Visual Intelligence Projects
 
-## 📂 Other Projects
+> Bridging raw pixels and actionable telemetry through advanced segmentation, tracking, and spatial mapping.
 
 ### 🏢 Structify AI: Floorplan to 3D Scene Converter
 * **Tech:** `FastAPI` · `YOLOv8 Segmentation` · `OpenCV` · `Shapely` · `Trimesh` · `GeoJSON`
@@ -78,6 +88,10 @@ A AAA-grade, high-fidelity web application built to simulate a next-generation g
 ### 🛸 Drone-Based Multi-Vehicle Detection & Traffic Flow Analysis
 * **Tech:** `YOLOv8` · `DeepSORT` · `OpenCV` · `Shapely Polygons` · `Pandas`
 * **Impact:** Created a pipeline for automated traffic data ingestion from aerial drone feeds. The system handles vehicle tracking with unique IDs via **DeepSORT**, automatically maps lane polygons without manual configuration, and generates formatted structural excel sheets parsing lane-wise traffic trends.
+
+---
+
+## 📂 Other Projects
 
 ### 🕹️ Doom 3D: Python Raycasting Engine
 * **Tech:** `Python` · `Pygame` · `DDA Algorithm` · `BFS Pathfinding`
@@ -114,7 +128,6 @@ A AAA-grade, high-fidelity web application built to simulate a next-generation g
 ---
 
 ## 📈 GitHub Analytics
-
 
 <!-- GITHUB CONTRIBUTION SPACE SHOOTER -->
 <p align="center">
